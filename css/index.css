@@ -90,14 +90,193 @@ body{
     gap: 100px;
     justify-content: center;
 }
-.iphone{
+.iphone11{
     width: 780px;
     background-color: black;
     color: white;
+    padding-top: 30px;
+    justify-items: center;
+}
+.iphone{
+    display: flex;
+}
+.iphon{
+    padding-left: 50px;
 }
 .voucher{
     font-size: 48px;
+    width: 264px;
+    padding-top: 20px;
 }
+.shop{
+    color: white;
+    align-items: center;
+    font-size: 16px;
+    font-weight: 500;
+    padding-top: 20px;
+}
+.browse{
+    padding-top: 50px;
+}
+.this-month{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding-top: 30px;
+}
+.month{
+    display: flex;
+    gap: 16px;
+    align-items: center;
+    padding-left: 110px;
+    color: #DB4444;
+}
+.best{
+    font-size: 36px;
+    font-weight: 600;
+ }
+ .view{
+    display: flex;
+    gap: 639px;
+    justify-content: center;
+ }
+ .border{
+width: 20px;
+height: 40px;
+background-color: #DB4444;
+border-radius: 8px;
+}
+ .arrow{
+    display: flex;
+    gap: 8px;
+ }
+ .gadget{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    padding-top: 30px;
+    font-size:16px;
+    font-weight: 400;
+ }
+ .sub-gadget{
+    width: 150px;
+    height: 100px;
+    padding-top: 12px;
+   text-align: center;
+   border: 1px solid rgb(164, 164, 164);
+ }
+  .sub-gadget1{
+    width: 150px;
+    height: 100px;
+    background-color: #DB4444;
+    padding-top: 12px;
+    color: white;
+    text-align: center;
+ }
+ .cpu{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+     padding-top: 30px;
+    font-size:16px;
+    font-weight: 400;
+ }
+ .gucci{
+     width: 240px;
+ }
+ .jacket{
+    position: relative;
+    background-color: #f5f5f5;
+    width: 240px;
+    text-align: center;
+ }
+ .eye{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    position: absolute;
+    top: 5px;
+    right: 8px;
+ }
+ .star{
+    align-items: center;
+ }
+ .north{
+    padding-top: 15px;
+ }
+ .doll{
+    color: #DB4444;
+ }
+ .dolls{
+    color: rgb(137, 137, 137);
+ }
+ .jbl{
+    width: 1100px;
+    background-color: black;
+    margin-top: 60px;
+    padding-top: 60px;
+    display: flex;
+    gap: 30px;
+    justify-items: center;
+    margin-left: 100px;
+    padding-bottom: 30px;
+ }
+ .jbl-text{
+    padding-left: 30px;
+ }
+ .cat{
+    font-size: 16px;
+    font-weight: 600;
+    color: #00FF66;
+ }
+ .enhance{
+    font-size: 48px;
+    font-weight: 600;
+    width: 443px;
+    color: white;
+    padding-top: 30px;
+ }
+ .timer{
+    padding-top: 30px;
+ }
+ .buy{
+    width: 170px;
+    height: 40px;
+    background-color: #00FF66;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    margin-top:30px;
+ }
+   .vieww{
+    display: flex;
+    gap: 625px;
+    justify-content: center;
+ }
+ .pic1{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    padding-top: 30px;
+ }
+  .pic2{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    padding-top: 30px;
+ }
+ .btn1{
+    background-color: #DB4444;
+    color: white;
+    width: 150px;
+    height: 30px;
+    font-size: 16px;
+    font-weight: 500;
+   align-content: center;
+   text-align: center;
+   margin-left: 45%;
+   margin-top: 30px;
+ }
 /* .image{
     padding-top: 30px;
 }
@@ -127,6 +306,7 @@ body{
     gap: 30px;
     justify-content: center;
     padding-top: 30px;
+    font-size:16px
  }
  .gadget img:hover{
     background-color: #DB4444;
