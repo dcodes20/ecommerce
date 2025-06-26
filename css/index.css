@@ -115,6 +115,9 @@ body{
     font-weight: 500;
     padding-top: 20px;
 }
+.shop:hover{
+    font-size: 18px;
+}
 .browse{
     padding-top: 50px;
 }
@@ -164,6 +167,9 @@ border-radius: 8px;
     padding-top: 12px;
    text-align: center;
    border: 1px solid rgb(164, 164, 164);
+ }
+ .sub-gadget{
+    background-color: #DB4444;
  }
   .sub-gadget1{
     width: 150px;
@@ -247,6 +253,10 @@ border-radius: 8px;
     text-align: center;
     padding-top: 10px;
     margin-top:30px;
+ }
+ .buy:hover{
+    width: 200px;
+    height: 50px;
  }
    .vieww{
     display: flex;
