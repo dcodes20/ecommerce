@@ -168,7 +168,7 @@ border-radius: 8px;
    text-align: center;
    border: 1px solid rgb(164, 164, 164);
  }
- .sub-gadget{
+ .sub-gadget:hover{
     background-color: #DB4444;
  }
   .sub-gadget1{
@@ -287,115 +287,8 @@ border-radius: 8px;
    margin-left: 45%;
    margin-top: 30px;
  }
-/* .image{
-    padding-top: 30px;
-}
-.flash{
-    padding-top: 100px;
-    text-align: center;
-    padding-left: 100px;
-}
- .btn1{
-    background-color: #DB4444;
-    color: white;
-    width: 150px;
-    height: 30px;
-    font-size: 16px;
-    font-weight: 500;
-   align-content: center;
-   text-align: center;
-   margin-left: 45%;
-   margin-top: 30px;
- }
- .arrow{
-    display: flex;
-    gap: 8px;
- }
- .gadget{
-    display: flex;
-    gap: 30px;
-    justify-content: center;
-    padding-top: 30px;
-    font-size:16px
- }
- .gadget img:hover{
-    background-color: #DB4444;
- }
- .line{
-    border: 1px solid rgb(105, 105, 105);
-    width: 1000px;
-    margin-top: 50px;
-    margin-left: 100px;
- }
- .browse{
-    padding-top: 30px;
-    padding-left: 120px;
-}
-.border{
-width: 20px;
-height: 40px;
-background-color: #DB4444;
-border-radius: 8px;
-}
-.this-month{
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-    padding-top: 30px;
-}
-.month{
-    display: flex;
-    gap: 16px;
-    align-items: center;
+  .vie{
     padding-left: 110px;
-    color: #DB4444;
-}
- .best{
-    font-size: 36px;
-    font-weight: 600;
- }
- .view{
-    display: flex;
-    gap: 639px;
-    justify-content: center;
- }
- .btn2{
-    background-color: #DB4444;
-    color: white;
-    width: 100px;
-    height: 30px;
-     font-size: 16px;
-    font-weight: 500;
-   align-content: center;
-   text-align: center;
-   border-radius: 8px;
- }
- .cloth{
-    display: flex;
-    gap: 20px;
-    justify-content: center;
-    padding-top: 30px;
- }
- .pic1{
-    display: flex;
-    gap: 20px;
-    justify-content: center;
-    padding-top: 30px;
- }
-  .pic2{
-    display: flex;
-    gap: 20px;
-    justify-content: center;
-    padding-top: 30px;
- }
-  .vieww{
-    display: flex;
-    gap: 625px;
-    justify-content: center;
- }
- .perfume{
-    display: flex;
-    gap: 20px;
  }
  .console{
     display: flex;
@@ -403,48 +296,130 @@ border-radius: 8px;
     justify-content: center;
     padding-top: 50px;
  }
- .vie{
-    padding-left: 110px;
- }
  .ps5{
     width: 500px;
     background-color: black;
     border-radius: 8px;
-    position: relative;
- }
- .ps{
-    position: absolute;
-    top: 12px;
- }
- .play{
-    position: absolute;
     color: white;
-    left: 20px;
-    top: 460px;
-    width: 242px;
-    font-size: 14px;
-    font-weight: 400;
+    background-image: url(../pics/ps5-slim-goedkope-playstation_large\ 1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
  }
- .ps55{
+ .ps6{
+    padding-top: 450px;
+    padding-left: 20px;
+ }
+ .hat{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+ }
+ .woman{
+     background-color: black;
+    border-radius: 8px;
+    width: 520px;
+    height: 250px;
+    background-image: url(../pics/attractive-woman-wearing-hat-posing-black-background\ 1.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+ }
+ .wo{
+    padding-top: 140px;
+    padding-left: 20px;
+    color: white;
+ }
+ .mini-wo{
     font-size: 24px;
-    font-weight: 600;
+ }
+ .small-wo{
+    font-size: 14px;
  }
  .shopp{
+    padding-top: 10px;
     color: white;
     font-size: 16px;
  }
- .speaker{
-    background-color: black;
-    border-radius: 8px;
- }
- .woman{
-    border-radius: 8px;
-    position: relative;
- }
- .wo{
-    position: absolute;
+ .perfume{
+    display: flex;
+    gap: 20px;
  }
  .perf{
+    width: 250px;
+    height: 250px;
     background-color: black;
     border-radius: 8px;
- } */
+    background-image: url(../pics/Frame\ 707.png);
+    background-repeat: no-repeat;
+    background-position: center;
+ }
+ .speaker{
+    width: 250px;
+    height: 250px;
+    background-color: black;
+    border-radius: 8px;
+    background-image: url(../pics/Frame\ 706.png);
+    background-repeat: no-repeat;
+    background-position: center;
+ }
+ .delivery{
+    display: flex;
+    gap: 88px;
+    justify-content: center;
+    padding-top: 120px;
+ }
+ .free{
+    justify-items: center;
+ }
+ .fast{
+    font-size: 20px;
+ }
+ .fast1{
+    font-size: 14px;
+ }
+.footer{
+    margin-top: 150px;
+    background-color: black;
+    width: 100%;
+    color: white;
+    padding-bottom: 20px;
+}
+.foot{
+display: flex;
+    gap: 40px;
+    justify-content: center;
+    padding-top: 50px;
+}
+.sub{
+    font-size: 20px;
+    padding-top: 10px;
+}
+.sub{
+    font-size: 20px;
+}
+.get{
+    font-size: 16px;
+    padding-top: 10px;
+    width: 180px;
+    line-height: 30px;
+}
+.gett{
+    padding-top: 10px;
+}
+.email{
+    width: 218px;
+    height: 48px;
+    border: 1px solid white;
+    background-color: black;
+    margin-top: 20px;
+    padding-left: 20px;
+}
+.last{
+    font-size: 16px;
+    font-weight: 400;
+    border-top: 1px solid rgb(57, 57, 57);
+    margin-top: 50px;
+    text-align: center;
+    padding-top: 20px;
+}
